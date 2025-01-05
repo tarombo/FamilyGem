@@ -26,7 +26,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.theartofdev.edmodo.cropper.CropImage;
+import com.canhub.cropper.CropImage;
 import org.folg.gedcom.model.Address;
 import org.folg.gedcom.model.ChildRef;
 import org.folg.gedcom.model.EventFact;

@@ -20,7 +20,7 @@ import android.view.ViewGroup;
 
 import com.familygem.action.DeleteMediaFileTask;
 import com.familygem.utility.Helper;
-import com.theartofdev.edmodo.cropper.CropImage;
+import com.canhub.cropper.CropImage;
 import org.folg.gedcom.model.Media;
 import org.folg.gedcom.model.MediaContainer;
 import org.folg.gedcom.model.MediaRef;
